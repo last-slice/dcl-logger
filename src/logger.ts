@@ -1,5 +1,6 @@
 import { isPreviewMode } from "@decentraland/EnvironmentAPI"
 
+//
 let prodLogs = false
 
 export function setdclLogs(flag:boolean){
